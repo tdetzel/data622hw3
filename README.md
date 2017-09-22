@@ -7,12 +7,12 @@
 1. Get set up with free academic credits on both Google Cloud Platform (GCP) and Amazon Web Services (AWS).  Instructions has been sent in 2 separate emails to your CUNY inbox.
 
 2. Research the products that AWS and GCP offer for storage, computing and analytics.  A few good starting points are:
-  - [GCP product list](https://cloud.google.com/products/)
-  - [AWS product list](https://aws.amazon.com/products)
-  - [GCP quick-start tutorials](https://codelabs.developers.google.com/codelabs)
-  - [AWS quick-start tutorials](https://aws.amazon.com/getting-started/tutorials/)
-  - [Mapping GCP to AWS products Azure](https://stackify.com/microsoft-azure-vs-amazon-web-services-vs-google-compute-comparison/)
-  - [Evaluating GCP against AWS](http://blog.armory.io/choosing-between-aws-gcp-and-azure/)
+    - [GCP product list](https://cloud.google.com/products/)
+    - [AWS product list](https://aws.amazon.com/products)
+    - [GCP quick-start tutorials](https://codelabs.developers.google.com/codelabs)
+    - [AWS quick-start tutorials](https://aws.amazon.com/getting-started/tutorials/)
+    - [Mapping GCP to AWS products Azure](https://stackify.com/microsoft-azure-vs-amazon-web-services-vs-google-compute-comparison/)
+    - [Evaluating GCP against AWS](http://blog.armory.io/choosing-between-aws-gcp-and-azure/)
 
 
 3. Design 2 different ways of migrating homework 2's outputs to *GCP*.  Evaluate the strength and weakness of each method using the Agile Data Science framework.
