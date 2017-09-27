@@ -9,7 +9,7 @@
 2. Research the products that AWS and GCP offer for storage, computing and analytics.  A few good starting points are:
     - [GCP product list](https://cloud.google.com/products/)
     - [AWS product list](https://aws.amazon.com/products)
-    - [GCP quick-start tutorials](https://codelabs.developers.google.com/codelabs)
+    - [GCP quick-start tutorials](https://codelabs.developers.google.com/)
     - [AWS quick-start tutorials](https://aws.amazon.com/getting-started/tutorials/)
     - [Mapping GCP to AWS products Azure](https://stackify.com/microsoft-azure-vs-amazon-web-services-vs-google-compute-comparison/)
     - [Evaluating GCP against AWS](http://blog.armory.io/choosing-between-aws-gcp-and-azure/)
